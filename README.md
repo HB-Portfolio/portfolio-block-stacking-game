@@ -1,6 +1,6 @@
 # Block Stacking Game
 
-Hey All! Welcome to my **Block Stacking Game**. I created this during my web developer certification at SAIT. It’s a simple yet engaging game that I developed to improve my skills in JavaScript.
+This is my **Block Stacking Game**. I created this during my web developer certification at SAIT. It’s a simple yet engaging game that I developed to improve my skills in JavaScript.
 
 **Author:** Hendrich Buhrer  
 **Certification:** Web Developer Certification at SAIT  
@@ -36,5 +36,3 @@ All the files are uploaded to the repository. I encourage you to look at the cod
 - The speed of the blocks increases as you progress, adding to the challenge.
 
 Feel free to explore the code and see how the game is implemented. If you have any questions or feedback, don't hesitate to reach out. 
-
-Enjoy my game!
