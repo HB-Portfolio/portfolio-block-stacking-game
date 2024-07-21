@@ -34,5 +34,3 @@ All the files are uploaded to the repository. I encourage you to look at the cod
 - Stack the blocks as accurately as possible.
 - The game ends if a block is placed completely off the previous one.
 - The speed of the blocks increases as you progress, adding to the challenge.
-
-Feel free to explore the code and see how the game is implemented. If you have any questions or feedback, don't hesitate to reach out. 
